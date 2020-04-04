@@ -13,7 +13,7 @@ padding: .8rem;
 }
 
 .navbar-brand{
-  top: 20px;
+  padding-top: 17px;
   }
 
 .navbar-nav li{
@@ -210,7 +210,7 @@ font-size: 200%;
 @media (max-width: 576px){
 .social a{
 font-size: 2em;
-padding: 1rem;
+padding: .5rem;
 }
 
 .carousel-caption{
