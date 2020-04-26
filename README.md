@@ -1,4 +1,4 @@
-# hazemidoo.github.io
+# hzmid.github.io
 Mobile responsiveness
 
 
